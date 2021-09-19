@@ -1,2 +1,2 @@
 # caml-functions
-A collection of functions written in CamL
+Collection of functions written in CamL
