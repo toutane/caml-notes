@@ -1,2 +1,2 @@
-# caml-functions
-Collection of functions written in CamL
+# caml-notes
+Collection of functions and programs written in CamL
